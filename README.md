@@ -33,10 +33,10 @@ This project simulates a scenario in the sales department of a hotel business, w
   - Predicts the probability of cancellation for each customer, helping the business target high-risk clients.
 
 📂 Project Directory  
-│-- hotel_bookings_training.csv # Training dataset of hotel bookings
-│-- new_customers.csv # New customer data for prediction
-│-- inference_pipeline.joblib # Saved model for inference
-│-- main.py # Main Python script
-│-- requirements.txt # Required dependencies
-│-- README.md # Project documentation
+│-- hotel_bookings_training.csv   # Training dataset of hotel bookings
+│-- new_customers.csv             # New customer data for prediction
+│-- inference_pipeline.joblib     # Saved model for inference
+│-- main.py                       # Main Python script
+│-- requirements.txt              # Required dependencies
+│-- README.md                     # Project documentation
 
